@@ -1,1 +1,1 @@
-https://adtek-labs.github.io/encrypt-tool/
+https://hey-rio.github.io/encrypt-tool/
